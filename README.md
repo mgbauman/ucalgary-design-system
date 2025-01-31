@@ -1,6 +1,6 @@
 # UCalgary Design system
 
-Welcome to the Ucalgary Design system monorepo! This repository contains a collection of reusable web components designed to enhance and standardize the user experience across the UCalgary web landscape.
+Welcome to the UCalgary Design system monorepo! This repository contains a collection of reusable web components designed to enhance and standardize the user experience across the UCalgary web landscape.
 
 ---
 
