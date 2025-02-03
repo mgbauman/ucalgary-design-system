@@ -7,6 +7,7 @@
     "@ucalgary-design-system/ucds-checkbox": "*",
     "@ucalgary-design-system/ucds-radio": "*",
     "@ucalgary-design-system/ucws-button": "*",
-    "@ucalgary-design-system/card": "*"
+    "@ucalgary-design-system/card": "*",
+    "@ucalgary-design-system/input": "*"
   }
 }
