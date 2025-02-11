@@ -21,6 +21,9 @@ Welcome to the UCalgary Design system monorepo! This repository contains a colle
 To get started, clone the repository and install dependencies:
 
 ```bash
+# Select desired home for repository
+cd ~
+
 # Clone the repository
 git clone https://github.com/mgbauman/ucalgary-design-system.git
 
@@ -29,6 +32,9 @@ cd ucalgary-design-system
 
 # Install dependencies
 npm install
+
+# Generate initial web component library files
+npm run build
 ```
 
 ---
@@ -103,7 +109,6 @@ You will be prompted to provide the name of the new component. This will scaffol
 
 Here is a list of available npm scripts:
 
-- **`npm run generate`**: Scaffold a new web component.
 - **`npm run generate`**: Scaffold a new web component.
 - **`npm run storybook`**: Start the Storybook server to view and document components.
 - **`npm run build`**: Build the components for production.
